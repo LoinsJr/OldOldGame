@@ -1,0 +1,2 @@
+D:\Projects\Git\OldOldGame\x64\Debug\SpaceBattle.exe
+D:\Projects\Git\OldOldGame\x64\Debug\SpaceBattle.pdb

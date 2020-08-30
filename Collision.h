@@ -1,6 +1,6 @@
 #pragma once
 
-#include "SDL.h"
+#include "include/SDL.h"
 #include <cmath>
 #include "Game.h"
 

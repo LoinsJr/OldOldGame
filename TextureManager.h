@@ -1,7 +1,7 @@
 #pragma once
 
-#include "SDL.h"
-#include "SDL_image.h"
+#include "include/SDL.h"
+#include "include/SDL_image.h"
 #include <unordered_map>
 #include <iostream>
 

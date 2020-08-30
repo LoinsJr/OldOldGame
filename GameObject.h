@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Vector2D.h"
-#include "SDL.h"
+#include "include/SDL.h"
 #include "Animation.h"
 #include "TextureManager.h"
 
